@@ -1,4 +1,4 @@
-//void main() {
+void main() {
   // Crie um programa que declare variáveis para armazenar o nome de um produto, a quantidade em estoque, o preço unitário e se está disponível para venda. Atribua valores e exiba-os no console.
   String nomeProduto = "Fone de Ouvido Bluetooth";
   int quantProduto = 75;
